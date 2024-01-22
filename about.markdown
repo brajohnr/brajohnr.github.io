@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an expert facilitator of business and technology partners, creating architecture and business solutions and meeting customer expectations using consulting skills spanning functional and technical fields.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am organized and focused on business and user experience. Optimistic team player for strategic thinking, adaptability, and providing creative solutions for the enterprise. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Expertise in:
 
+- Coaching Teams to Deliver
+- Emphasizing Objectives
+- Negotiation Skills
+- Decision Making
+- Conflict Management
+- Agile Lean Six Sigma
+- Business Analysis
+- Risk and Issue Management
+- Software Development
+- OmniPlus
+- Retirement Plan Solutions
 
-[jekyll-organization]: https://github.com/jekyll
+TECHNICAL SKILLS:
+Current Certifications: PMP, CSM, CSPO
+Tools: Jira, Microsoft Project, Clarity, Primavera, OpenProject, Project Server, SharePoint, Informatica PowerCenter 9. x
+
+INVITE John Bradley to connect with you on [Linkedin](http://www.linkedin.com/in/brajohnr)
